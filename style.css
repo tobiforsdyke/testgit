@@ -1,3 +1,6 @@
 .second-class {
   border: 2px;
 }
+.third-class {
+  border-bottom: 2px;
+}
