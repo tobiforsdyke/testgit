@@ -5,3 +5,14 @@
   border-bottom: 2px;
   border: 1px;
 }
+#navigation {
+
+}
+.navstyle {
+  float: left;
+  margin: 10px;
+  background: #eaeaea;
+  border-radius: 5px;
+  padding: 10px;
+  position: sticky;
+}
